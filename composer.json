@@ -1,7 +1,7 @@
 {
-    "name": "php-ffmpeg/php-ffmpeg",
+    "name": “ivebe/php-ffmpeg",
     "type": "library",
-    "description": "FFMpeg PHP, an Object Oriented library to communicate with AVconv / ffmpeg",
+    "description": “Clone of php-ffmpeg/php-ffmpeg with additional functions. FFMpeg PHP, an Object Oriented library to communicate with AVconv / ffmpeg",
     "keywords": ["video processing", "video", "audio processing", "audio", "avconv", "ffmpeg", "avprobe", "ffprobe"],
     "license": "MIT",
     "authors": [
